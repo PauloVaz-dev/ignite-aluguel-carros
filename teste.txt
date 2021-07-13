@@ -1,0 +1,190 @@
+<table role="presentation" style="background:white;background-color:white;width:100%" cellspacing="0" cellpadding="0" border="0" align="center">
+     <tbody>
+      <tr>
+       <td style="direction:ltr;font-size:0px;padding:20px 0;padding-bottom:30px;text-align:center">
+        <div style="margin:0px auto;max-width:600px">
+         <table role="presentation" style="width:100%" cellspacing="0" cellpadding="0" border="0" align="center">
+          <tbody>
+           <tr>
+            <td style="direction:ltr;font-size:0px;padding:20px 0;padding-left:40px;padding-right:40px;padding-top:0;text-align:center">
+             <div class="m_2975912077014468047mj-column-per-100" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%">
+              <table role="presentation" style="vertical-align:top" width="100%" cellspacing="0" cellpadding="0" border="0">
+               <tbody>
+                <tr>
+                 <td style="font-size:0px;padding:10px 25px;word-break:break-word" align="center">
+                  <table role="presentation" style="border-collapse:collapse;border-spacing:0px" cellspacing="0" cellpadding="0" border="0">
+                   <tbody>
+                    <tr>
+                     <td style="width:80px"><img src="https://ci6.googleusercontent.com/proxy/uPf9u05jIheVD8fThHV1hCVut9J7ID3D7g4XMu1532x0ua18EurK83n9ZTAn4iNsNz7W21tNQr-TYIevTPib=s0-d-e1-ft#http://nu-emails.s3.amazonaws.com/nubank.png" style="border:0;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px" class="CToWUd" width="80" height="auto"></td>
+                    </tr>
+                   </tbody>
+                  </table></td>
+                </tr>
+               </tbody>
+              </table>
+             </div></td>
+           </tr>
+          </tbody>
+         </table>
+        </div>
+        <div style="margin:0px auto;max-width:600px">
+         <table role="presentation" style="width:100%" cellspacing="0" cellpadding="0" border="0" align="center">
+          <tbody>
+           <tr>
+            <td style="direction:ltr;font-size:0px;padding:0;padding-left:0;padding-right:0;text-align:center">
+             <div class="m_2975912077014468047mj-column-per-100" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%">
+              <table role="presentation" style="vertical-align:top" width="100%" cellspacing="0" cellpadding="0" border="0">
+               <tbody>
+                <tr>
+                 <td style="font-size:0px;padding:0 0;word-break:break-word" align="center">
+                  <table role="presentation" style="border-collapse:collapse;border-spacing:0px" cellspacing="0" cellpadding="0" border="0">
+                   <tbody>
+                    <tr>
+                     <td style="width:600px"><img src="https://ci5.googleusercontent.com/proxy/65wZz5hS_7HuVs7Ll13gXClnN_1BPdWLH90Y64aJQYZ3O2TPapqS3_UnmlwXaDXzVDmxeOQPdIxE6_xQgMwo0rOdXBzTVhkmMoySp2rnai8EvrAAOFvBnf7i7v-gmb0=s0-d-e1-ft#https://nu-emails.s3.amazonaws.com/savings/tax-report/header-tax-report.jpeg" style="border:0;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px" class="CToWUd" width="600" height="auto"></td>
+                    </tr>
+                   </tbody>
+                  </table></td>
+                </tr>
+               </tbody>
+              </table>
+             </div></td>
+           </tr>
+          </tbody>
+         </table>
+        </div>
+        <div style="margin:0px auto;max-width:600px">
+         <table role="presentation" style="width:100%" cellspacing="0" cellpadding="0" border="0" align="center">
+          <tbody>
+           <tr>
+            <td style="direction:ltr;font-size:0px;padding:40px 40px 0 40px;padding-left:40px;padding-right:40px;text-align:center">
+             <div class="m_2975912077014468047mj-column-per-100" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%">
+              <table role="presentation" style="vertical-align:top" width="100%" cellspacing="0" cellpadding="0" border="0">
+               <tbody>
+                <tr>
+                 <td style="font-size:0px;padding:0px;word-break:break-word" align="center">
+                  <div style="font-family:sans-serif;font-size:28px;line-height:250%;text-align:center;color:#8d3dc8;">
+                   <strong>Olá, Paulo!</strong>
+                  </div></td>
+                </tr>
+                <tr>
+                 <td style="font-size:0px;padding:0px;word-break:break-word" align="center">
+                  <div style="font-family:sans-serif;font-size:16px;line-height:150%;text-align:center;color:#555555">
+                   Você está recebendo seu <strong>informe de rendimentos</strong> referente ao ano de <strong>2020</strong> da sua conta do <span class="il">Nubank</span>.
+                  </div></td>
+                </tr>
+               </tbody>
+              </table>
+             </div></td>
+           </tr>
+          </tbody>
+         </table>
+        </div>
+        <div style="margin:0px auto;max-width:600px">
+         <table role="presentation" style="width:100%" cellspacing="0" cellpadding="0" border="0" align="center">
+          <tbody>
+           <tr>
+            <td style="direction:ltr;font-size:0px;padding:20px 0;padding-left:40px;padding-right:40px;text-align:center">
+             <div class="m_2975912077014468047mj-column-per-100" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%">
+              <table role="presentation" style="vertical-align:top" width="100%" cellspacing="0" cellpadding="0" border="0">
+               <tbody>
+                <tr>
+                 <td style="font-size:0px;padding:0px;word-break:break-word" align="center">
+                  <div style="font-family:sans-serif;font-size:16px;line-height:150%;text-align:center;color:#555555">
+                   Os dados que estão aqui <strong>em anexo</strong> fazem parte dos itens "Rendimentos sujeitos à tributação exclusiva" e "Bens e Direitos" da declaração de Imposto de Renda.
+                  </div></td>
+                </tr>
+               </tbody>
+              </table>
+             </div></td>
+           </tr>
+          </tbody>
+         </table>
+        </div>
+        <div style="margin:0px auto;max-width:600px">
+         <table role="presentation" style="width:100%" cellspacing="0" cellpadding="0" border="0" align="center">
+          <tbody>
+           <tr>
+            <td style="direction:ltr;font-size:0px;padding:20px 0;padding-left:40px;padding-right:40px;text-align:center">
+             <div class="m_2975912077014468047mj-column-per-100" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%">
+              <table role="presentation" style="vertical-align:top" width="100%" cellspacing="0" cellpadding="0" border="0">
+               <tbody>
+                <tr>
+                 <td style="font-size:0px;padding:0px;word-break:break-word" align="center">
+                  <div style="font-family:sans-serif;font-size:16px;line-height:150%;text-align:center;color:#555555">
+                   Nós sabemos que às vezes pode ser complicado preencher a declaração. Se quiser algumas dicas sobre como declarar seus rendimentos da sua conta, confira o nosso blog na página <a href="https://url2333.nubank.com.br/ls/click?upn=64BcKiu1PtyaE0lVrBpb7gnS1WJ4v8Q49OgjhdzGZp6oxgyUJZvtTErOJuxPVbCT-2B95imKbo5ec1AZRw5EKAlev1Wh2053oAzbd-2FmcnK6svgahjnkHGMjmny9QOx00xPIn1J0POS8IYpttI8KjucTd6amfLRdsuu-2B-2BExrWpr7hEcuomgQTmwZ1uGsW0cwZxtn-2B-2BWT3-2BrjBMfsDzY7lNclSPvcpBnuYOpfVkxsI-2F8QGF0bCxdv0UBjkbmx-2FNaKfzINaoNP-2FstZxq1Jrt19j7dGw-3D-3DECoL_lmOAnuZo5vHIeLOmLbl-2FWcO7n5imh9Sf0ua3W4zf5-2BEhrnXcYGv3pc2C7dLF-2FFwFrRryjcb9-2FXHtTgbkSMhlu2zWj5hYkv2Yx-2FtfCbWdnAHhhbCf6Ymg827n6vPk3qBHXv6rA227UZFJH92aWMVpDRva9jSqkEK5WjGoGs8j9HO0ZNMu-2Bes92GNshNPCxVJXGYjxnfJoMqhKCUkL-2BXHFyKFKXjcdoi2V0RS-2BwtIqn7aVpJfKst2DCiF7TWeTfgsNtpV3Hk32oVa0Ce-2Fc0nVwbE3SPJYTqWn88dJMV0rk7Mo2clrOiagtw3bwgUyf3znOk9n3J-2BAFWp5U0KA7zHjOb5Qv3ouIMfGhBLMJs7fRpPLIu9sF48z8OTBOWIChMEzWteEKwdO625ow-2B8JCmDsBrg-3D-3D" style="color:#8d3dc8;font-weight:bold" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://url2333.nubank.com.br/ls/click?upn%3D64BcKiu1PtyaE0lVrBpb7gnS1WJ4v8Q49OgjhdzGZp6oxgyUJZvtTErOJuxPVbCT-2B95imKbo5ec1AZRw5EKAlev1Wh2053oAzbd-2FmcnK6svgahjnkHGMjmny9QOx00xPIn1J0POS8IYpttI8KjucTd6amfLRdsuu-2B-2BExrWpr7hEcuomgQTmwZ1uGsW0cwZxtn-2B-2BWT3-2BrjBMfsDzY7lNclSPvcpBnuYOpfVkxsI-2F8QGF0bCxdv0UBjkbmx-2FNaKfzINaoNP-2FstZxq1Jrt19j7dGw-3D-3DECoL_lmOAnuZo5vHIeLOmLbl-2FWcO7n5imh9Sf0ua3W4zf5-2BEhrnXcYGv3pc2C7dLF-2FFwFrRryjcb9-2FXHtTgbkSMhlu2zWj5hYkv2Yx-2FtfCbWdnAHhhbCf6Ymg827n6vPk3qBHXv6rA227UZFJH92aWMVpDRva9jSqkEK5WjGoGs8j9HO0ZNMu-2Bes92GNshNPCxVJXGYjxnfJoMqhKCUkL-2BXHFyKFKXjcdoi2V0RS-2BwtIqn7aVpJfKst2DCiF7TWeTfgsNtpV3Hk32oVa0Ce-2Fc0nVwbE3SPJYTqWn88dJMV0rk7Mo2clrOiagtw3bwgUyf3znOk9n3J-2BAFWp5U0KA7zHjOb5Qv3ouIMfGhBLMJs7fRpPLIu9sF48z8OTBOWIChMEzWteEKwdO625ow-2B8JCmDsBrg-3D-3D&amp;source=gmail&amp;ust=1618194918640000&amp;usg=AFQjCNHz7ksKLOT1IYNM7JZ0jdUx3eWeRg">Como declarar a sua conta do <span class="il">Nubank</span> no Imposto de Renda.</a>
+                  </div></td>
+                </tr>
+               </tbody>
+              </table>
+             </div></td>
+           </tr>
+          </tbody>
+         </table>
+        </div>
+        <div style="margin:0px auto;max-width:600px">
+         <table role="presentation" style="width:100%" cellspacing="0" cellpadding="0" border="0" align="center">
+          <tbody>
+           <tr>
+            <td style="direction:ltr;font-size:0px;padding:20px 0;padding-left:40px;padding-right:40px;text-align:center">
+             <div class="m_2975912077014468047mj-column-per-100" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%">
+              <table role="presentation" style="vertical-align:top" width="100%" cellspacing="0" cellpadding="0" border="0">
+               <tbody>
+                <tr>
+                 <td style="font-size:0px;padding:0px;word-break:break-word" align="center">
+                  <div style="font-family:sans-serif;font-size:16px;line-height:150%;text-align:center;color:#555555">
+                   É legal mencionar também que a partir de agora <strong>será possível receber a restituição do Imposto de Renda na conta do <span class="il">Nubank</span></strong>. No nosso blog explicamos tudo sobre essa novidade na página <a href="https://url2333.nubank.com.br/ls/click?upn=64BcKiu1PtyaE0lVrBpb7gnS1WJ4v8Q49OgjhdzGZp4ut2cY0rQA0AhDXYb3r5B-2FxYLEwEENtbDOPww3Fudbkrd7oB9mnC018mZbJQOzDtIsIyGl-2FMEyOBWeNoOa1KHJKHE5SIWsmmOvKQqwEXKWfvFA8dwKR6ZUtRtC9HO3XckNGiOjwq5kCJR-2BFuVsMP9OPuPJ22gdPmqDGm48OlcnExWNI4T5zU4kQxuqMajBQ-2Bi5adD2vpXvb3KoGR3RJCTeu1p5_lmOAnuZo5vHIeLOmLbl-2FWcO7n5imh9Sf0ua3W4zf5-2BEhrnXcYGv3pc2C7dLF-2FFwFrRryjcb9-2FXHtTgbkSMhlu2zWj5hYkv2Yx-2FtfCbWdnAHhhbCf6Ymg827n6vPk3qBHXv6rA227UZFJH92aWMVpDRva9jSqkEK5WjGoGs8j9HO0ZNMu-2Bes92GNshNPCxVJXGYjxnfJoMqhKCUkL-2BXHFyKFKXjcdoi2V0RS-2BwtIqn7aVpJfKst2DCiF7TWeTfgsN-2FtzQ1X8Bm1HOoco8IAtQif-2Ff2SspuG63ZJSvqelSqwu-2BpBGn4dF-2FzKn8Ukq9twh8G3o7mnd-2BO-2FhiuaH7idS411PhBmPGJL59go3KkKKYDmGhbVXPiB6w78MZqARPY13Qi0nDYzKjuXZ0vrJLramd3g-3D-3D" style="color:#8d3dc8;font-weight:bold" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://url2333.nubank.com.br/ls/click?upn%3D64BcKiu1PtyaE0lVrBpb7gnS1WJ4v8Q49OgjhdzGZp4ut2cY0rQA0AhDXYb3r5B-2FxYLEwEENtbDOPww3Fudbkrd7oB9mnC018mZbJQOzDtIsIyGl-2FMEyOBWeNoOa1KHJKHE5SIWsmmOvKQqwEXKWfvFA8dwKR6ZUtRtC9HO3XckNGiOjwq5kCJR-2BFuVsMP9OPuPJ22gdPmqDGm48OlcnExWNI4T5zU4kQxuqMajBQ-2Bi5adD2vpXvb3KoGR3RJCTeu1p5_lmOAnuZo5vHIeLOmLbl-2FWcO7n5imh9Sf0ua3W4zf5-2BEhrnXcYGv3pc2C7dLF-2FFwFrRryjcb9-2FXHtTgbkSMhlu2zWj5hYkv2Yx-2FtfCbWdnAHhhbCf6Ymg827n6vPk3qBHXv6rA227UZFJH92aWMVpDRva9jSqkEK5WjGoGs8j9HO0ZNMu-2Bes92GNshNPCxVJXGYjxnfJoMqhKCUkL-2BXHFyKFKXjcdoi2V0RS-2BwtIqn7aVpJfKst2DCiF7TWeTfgsN-2FtzQ1X8Bm1HOoco8IAtQif-2Ff2SspuG63ZJSvqelSqwu-2BpBGn4dF-2FzKn8Ukq9twh8G3o7mnd-2BO-2FhiuaH7idS411PhBmPGJL59go3KkKKYDmGhbVXPiB6w78MZqARPY13Qi0nDYzKjuXZ0vrJLramd3g-3D-3D&amp;source=gmail&amp;ust=1618194918640000&amp;usg=AFQjCNGP_WwD-wlrX2PJgTRZeR4AMwAEVw">Como receber a restituição do IR na sua conta do <span class="il">Nubank</span>.</a>
+                  </div></td>
+                </tr>
+               </tbody>
+              </table>
+             </div></td>
+           </tr>
+          </tbody>
+         </table>
+        </div>
+        <div style="margin:0px auto;max-width:600px">
+         <table role="presentation" style="width:100%" cellspacing="0" cellpadding="0" border="0" align="center">
+          <tbody>
+           <tr>
+            <td style="direction:ltr;font-size:0px;padding:20px 0;padding-left:40px;padding-right:40px;text-align:center">
+             <div class="m_2975912077014468047mj-column-per-100" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%">
+              <table role="presentation" style="vertical-align:top" width="100%" cellspacing="0" cellpadding="0" border="0">
+               <tbody>
+                <tr>
+                 <td style="font-size:0px;padding:0px;word-break:break-word" align="center">
+                  <div style="font-family:sans-serif;font-size:16px;line-height:150%;text-align:center;color:#555555">
+                   Para mais informações sobre a declaração de Imposto de Renda, você pode acessar o site da <a href="https://url2333.nubank.com.br/ls/click?upn=ao4SYEvrbtG6LZh6Fn-2B9yLzTMeABWf4xIpcnh-2BIhVTw6m2ZhguK64Y-2FRVHPbueqT-2FDrKM74i7-2FEztmyLSbFVLQ-3D-3D1tXU_lmOAnuZo5vHIeLOmLbl-2FWcO7n5imh9Sf0ua3W4zf5-2BEhrnXcYGv3pc2C7dLF-2FFwFrRryjcb9-2FXHtTgbkSMhlu2zWj5hYkv2Yx-2FtfCbWdnAHhhbCf6Ymg827n6vPk3qBHXv6rA227UZFJH92aWMVpDRva9jSqkEK5WjGoGs8j9HO0ZNMu-2Bes92GNshNPCxVJXGYjxnfJoMqhKCUkL-2BXHFyKFKXjcdoi2V0RS-2BwtIqn7aVpJfKst2DCiF7TWeTfgsN7raD9srvVelLqAriwriRgKWebvqPmNqECmdaaL2Snm-2FlC-2BYXdb0E-2BJaoEINjDo-2Bfz2DLy7lm7QqkidzyBS0RyLKdYnEyfPvoCKlEHhsw8SCtVhuywZwwKW4TvqUsSI74HanG4Ws-2B83U15pGo1NY6dA-3D-3D" style="color:#8d3dc8;font-weight:bold" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://url2333.nubank.com.br/ls/click?upn%3Dao4SYEvrbtG6LZh6Fn-2B9yLzTMeABWf4xIpcnh-2BIhVTw6m2ZhguK64Y-2FRVHPbueqT-2FDrKM74i7-2FEztmyLSbFVLQ-3D-3D1tXU_lmOAnuZo5vHIeLOmLbl-2FWcO7n5imh9Sf0ua3W4zf5-2BEhrnXcYGv3pc2C7dLF-2FFwFrRryjcb9-2FXHtTgbkSMhlu2zWj5hYkv2Yx-2FtfCbWdnAHhhbCf6Ymg827n6vPk3qBHXv6rA227UZFJH92aWMVpDRva9jSqkEK5WjGoGs8j9HO0ZNMu-2Bes92GNshNPCxVJXGYjxnfJoMqhKCUkL-2BXHFyKFKXjcdoi2V0RS-2BwtIqn7aVpJfKst2DCiF7TWeTfgsN7raD9srvVelLqAriwriRgKWebvqPmNqECmdaaL2Snm-2FlC-2BYXdb0E-2BJaoEINjDo-2Bfz2DLy7lm7QqkidzyBS0RyLKdYnEyfPvoCKlEHhsw8SCtVhuywZwwKW4TvqUsSI74HanG4Ws-2B83U15pGo1NY6dA-3D-3D&amp;source=gmail&amp;ust=1618194918641000&amp;usg=AFQjCNFkjmG7qA9YYBbLHeZ2WyuyGVorpw">Receita Federal</a>.
+                  </div></td>
+                </tr>
+               </tbody>
+              </table>
+             </div></td>
+           </tr>
+          </tbody>
+         </table>
+        </div>
+        <div style="margin:0px auto;max-width:600px">
+         <table role="presentation" style="width:100%" cellspacing="0" cellpadding="0" border="0" align="center">
+          <tbody>
+           <tr>
+            <td style="direction:ltr;font-size:0px;padding:20px 0;padding-bottom:0;padding-left:40px;padding-right:40px;text-align:center">
+             <div class="m_2975912077014468047mj-column-per-100" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%">
+              <table role="presentation" style="vertical-align:top" width="100%" cellspacing="0" cellpadding="0" border="0">
+               <tbody>
+                <tr>
+                 <td style="font-size:0px;padding:0px;word-break:break-word" align="center">
+                  <div style="font-family:sans-serif;font-size:16px;line-height:150%;text-align:center;color:#555555">
+                   Abraços,
+                   <br>Equipe <span class="il">Nubank</span>
+                  </div></td>
+                </tr>
+               </tbody>
+              </table>
+             </div></td>
+           </tr>
+          </tbody>
+         </table>
+        </div></td>
+      </tr>
+     </tbody>
+    </table>
